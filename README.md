@@ -1,2 +1,2 @@
 # Desain-Web
-Repositori ini berisi kode yang saya buat selama mata kuliah Desain Web menggunakan HTML dan CSS
+Repositori ini berisi kode yang saya buat selama praktikum mata kuliah Desain Web
